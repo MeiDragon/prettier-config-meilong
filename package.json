@@ -1,0 +1,25 @@
+{
+  "name": "prettier-config-meidragon",
+  "version": "0.0.2",
+  "description": "Prettier shareable configuration for MeiDragon F2E Guidelines",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MeiDragon/prettier-config-meilong.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MeiDragon/prettier-config-meilong/issues"
+  },
+  "author": {
+    "name": "HduSy",
+    "email": "bilisantu@gmail.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+	"devDependencies": {
+		"prettier": "3.2.5"
+	}
+}
